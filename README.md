@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![LOGO](https://avatars3.githubusercontent.com/u/63793854?s=460&u=d51c40382078be0b4337dd1ff24a7bc91d12ac22&v=4)
 
 # PublicGPS
 Dear colleagues, the following is a description of this project, a brief guide to working with the model in MATLAB and background information.
