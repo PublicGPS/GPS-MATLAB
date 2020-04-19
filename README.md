@@ -7,6 +7,11 @@ This project was created on the initiative of two people: **Gelgor Alexander**, 
 The model consists of *several navigation signal processing units*. Each block is an encrypted class. Despite this, the user can see the names of parameters and methods of this class. Using this model, you can observe the intermediate results of the work of each class (graphically and in the log – Command Window and Workspace). The user can write their own GPS signal processing units and compare the results of their work with the results of the encrypted blocks.
 
 ## Objective of the project
-  In the course of this project, it is planned to *improve the navigation signal processing model* by adding more functionality to it (for example, using signals from other global navigation systems). Also, to improve this model, **feedback is very important to us**, so we are always **open for your comments and suggestions**! For all questions, please contact us: contact.publicgps@gmail.com.
+In the course of this project, it is planned to *improve the navigation signal processing model* by adding more functionality to it (for example, using signals from other global navigation systems). Also, to improve this model, **feedback is very important to us**, so we are always **open for your comments and suggestions**! For all questions, please contact us: contact.publicgps@gmail.com.
 
 *Best regards, the creators of this project!*
+
+## YouTube
+On our YouTube channel you can find all information about our MATLAB model, *demonstrations* of GPS signal processing and video podcasts about GNSS.
+
+https://www.youtube.com/channel/UCQSmkOHu6c5KvMjT1aAloOA
