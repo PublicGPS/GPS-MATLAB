@@ -1,0 +1,6 @@
+This file contains list of books that were used to write GPS signal processing MATLAB model:
+
+[1] Elliot D. Kaplan, Christofer J. Hegarty, “Understanding GPS. Principles and Applications,” Artech House, 2nd ed., 2006
+[2] Elliot D. Kaplan, Christofer J. Hegarty, “Understanding GPS. Principles and Applications,” Artech House, 3rd ed., 2017
+[3] K. Borre, D.M. Akos, N. Bertelsen, P. Rinder, S.H. Jensen, “A Software-Defined GPS and Galileo Receiver. A Single-Frequency Approach,” Birkhauser, 2007
+[4] James Bao-Yen Tsui, “Fundamentals of Global Positioning System Receivers: A Software Approach,” John Wiley & Sons Inc., 2000
