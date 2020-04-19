@@ -1,4 +1,4 @@
-# PublicGPS ![LOGO](https://lh3.googleusercontent.com/a-/AOh14GgsHjThixQ7mA_IV1NQvtV-b1pbXenLGUJHf0nr=s96-cc-rg)
+# ![LOGO](https://lh3.googleusercontent.com/a-/AOh14GgsHjThixQ7mA_IV1NQvtV-b1pbXenLGUJHf0nr=s96-cc-rg) PublicGPS  
 
 Dear colleagues, the following is a description of this project, a brief guide to working with the model in MATLAB and background information.
 
