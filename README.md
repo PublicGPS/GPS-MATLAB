@@ -1,6 +1,5 @@
-![LOGO](https://lh3.googleusercontent.com/a-/AOh14GgsHjThixQ7mA_IV1NQvtV-b1pbXenLGUJHf0nr=s96-cc-rg)
+![LOGO](https://lh3.googleusercontent.com/a-/AOh14GgsHjThixQ7mA_IV1NQvtV-b1pbXenLGUJHf0nr=s96-cc-rg) **PublicGPS**
 
-# PublicGPS
 Dear colleagues, the following is a description of this project, a brief guide to working with the model in MATLAB and background information.
 
 This project was created on the initiative of two people: **Gelgor Alexander**, *PhD* (a_gelgor@mail.ru) and **Igor Petrov**, *Ms student at Peter the Great Saint-Petersburg Polytechnic University* (ia_petrov@inbox.ru). **The idea** of the project is to create a **universal open-source GPS signal processing model**. All that is required of the user is a raw GPS signal recording and setting of some model parameters.
