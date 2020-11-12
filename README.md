@@ -15,3 +15,6 @@ In the course of this project, it is planned to *improve the navigation signal p
 On our YouTube channel you can find all information about our MATLAB model, *demonstrations* of GPS signal processing and video podcasts about GNSS.
 
 https://www.youtube.com/channel/UCQSmkOHu6c5KvMjT1aAloOA
+
+## Notes
+Comments to the current version of the model are presented in *Russian* and *English*. In the near future, the model will be fully translated into **English**.
